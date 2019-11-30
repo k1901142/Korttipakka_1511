@@ -1,0 +1,2 @@
+﻿Hyvin toimii :)
+Ennen käden tulostusta voisi tehdä pienen eron muuhun tulostukseen.

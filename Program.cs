@@ -50,10 +50,13 @@ namespace Korttipakka_1511
             Console.WriteLine(korttipakka.ToString());
 
             List<Kortti> kasi = korttipakka.Jaa(3);
+            Console.WriteLine();
+            Console.WriteLine("Käsi");
             foreach (var kortti in kasi)
             {
                 Console.WriteLine(kortti);
             }
+            Console.WriteLine();
 
             Console.WriteLine("Pakassa jäljellä ");
             Console.WriteLine(korttipakka.ToString());
